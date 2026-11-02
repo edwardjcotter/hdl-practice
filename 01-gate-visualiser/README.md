@@ -26,3 +26,5 @@ The purpose of this project is to visualise six different logic gates using phys
 ## Development
 - Language: Verilog
 - IDE: Xilinx Vivado
+
+The Nexys A7 Master XDC constraints file is sourced from Digilent's digilent-xdc repository

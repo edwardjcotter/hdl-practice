@@ -1,9 +1,9 @@
 # Vivado generated files and directories
 .Xil/
-.cache/
-.hw/
-.runs/
-.sim/
+*.cache/
+*.hw/
+*.runs/
+*.sim/
 ip_user_files/
 .gen/
 
